@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1v4dXG78eOL5S4q8NGUZUtKyfyh" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="12" key="CommitChangelistDialog2" timestamp="1625825384919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="421" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1625825384919" />
   </component>
 </project>
